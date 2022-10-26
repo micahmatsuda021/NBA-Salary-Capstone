@@ -13,7 +13,8 @@ In this project, I will be analyzing data from a NBA player's first contract’s
   - [Final Clean Dataset](https://github.com/micahmatsuda021/NBA-Salary-Capstone/blob/main/Data/players_cleaned_final.csv)
   
 2. Deliverables
+  - [Final Presentation](https://github.com/micahmatsuda021/NBA-Salary-Capstone/blob/main/Capstone_Presentation%5BMicah%20Matsuda%5D.pdf)
   - [Final Report]
-  - [Final Presentation]
+  
   
 3. Notebooks
