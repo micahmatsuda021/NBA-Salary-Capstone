@@ -20,3 +20,5 @@ In this project, I will be analyzing data from a NBA player's first contract’s
   - [02 Data Wrangling](https://github.com/micahmatsuda021/NBA-Salary-Capstone/blob/main/Notebooks/02%20Data%20Wrangling.ipynb)
   - [03 Exploratory Data Analysis](https://github.com/micahmatsuda021/NBA-Salary-Capstone/blob/main/Notebooks/03%20Exploratory%20Data%20Analysis.ipynb)
   - [04 Pre-Processing, Training, and Modeling](https://github.com/micahmatsuda021/NBA-Salary-Capstone/blob/main/Notebooks/04%20Pre-Processing%2C%20Training%20Data%20Development%2C%20%26%20Modeling.ipynb)
+
+Thank you!
